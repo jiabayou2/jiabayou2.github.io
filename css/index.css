@@ -1,0 +1,19 @@
+html , body , h1,h2,h3,h4,h5 ,ul , ol {
+    padding: 0;
+    margin: 0;
+}
+.snake_header h3 {
+    height: 40px;
+    background-color: #f0f0f0;
+    text-align: center;
+    line-height: 40px;
+}
+.snake_content {
+    /* width: 1200px; */
+    margin: 0 auto;
+}
+.snake_content canvas {
+    display: block;
+    background-color: skyblue;
+    margin: 0 auto;
+}
